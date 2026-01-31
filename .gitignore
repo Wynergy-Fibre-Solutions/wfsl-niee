@@ -1,0 +1,29 @@
+# WFSL NIEE
+
+# Evidence outputs
+niee-snapshot-*.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PowerShell
+*.psm1
+*.psd1
+
+# Node (future-proofing)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+
+# Temp
+tmp/
+temp/
